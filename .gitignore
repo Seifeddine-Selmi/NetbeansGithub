@@ -1,0 +1,17 @@
+# Java files
+*.class
+*.jar
+
+# Netbeans files
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Eclipse files
+.project
+.classpath
+bin/
